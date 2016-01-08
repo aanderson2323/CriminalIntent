@@ -12,4 +12,14 @@
     <string name="button_time_set_text">Set Time</string>
     <string name="new_crime">New Crime</string>
     <string name="time_picker_title">Set Time:</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="subtitle_format">%1$s crimes</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="crime_delete">Delete Crime</string>
+    <string name="nothing_here">No Crimes!</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s crime</item>
+        <item quantity="other">%1$s crimes</item>
+    </plurals>
 </resources>
+
